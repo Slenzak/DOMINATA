@@ -1,0 +1,14 @@
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\bin\Debug\net6.0\DOMINATA.exe
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\bin\Debug\net6.0\DOMINATA.deps.json
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\bin\Debug\net6.0\DOMINATA.runtimeconfig.json
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\bin\Debug\net6.0\DOMINATA.dll
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\bin\Debug\net6.0\DOMINATA.pdb
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\obj\Debug\net6.0\DOMINATA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\obj\Debug\net6.0\DOMINATA.AssemblyInfoInputs.cache
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\obj\Debug\net6.0\DOMINATA.AssemblyInfo.cs
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\obj\Debug\net6.0\DOMINATA.csproj.CoreCompileInputs.cache
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\obj\Debug\net6.0\DOMINATA.dll
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\obj\Debug\net6.0\refint\DOMINATA.dll
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\obj\Debug\net6.0\DOMINATA.pdb
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\obj\Debug\net6.0\DOMINATA.genruntimeconfig.cache
+C:\Users\kubol\source\repos\DOMINATA\DOMINATA\obj\Debug\net6.0\ref\DOMINATA.dll
